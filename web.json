@@ -1,8 +1,15 @@
 [
-  { 
+  {
     "role": "admin",
-    "username": "iky", 
+    "username": "iky",
     "password": "1",
     "exp": "1d"
+  },
+  {
+    "username": "ikyy",
+    "password": "ikyy",
+    "role": "admin",
+    "expiration": "permanent",
+    "createdAt": "2025-10-05T08:14:57.039Z"
   }
 ]
