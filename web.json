@@ -5,12 +5,5 @@
     "role": "admin",
     "expiration": "permanent",
     "createdAt": "2025-10-05T10:00:00Z"
-  },
-  {
-    "username": "ptjuan",
-    "password": "1",
-    "role": "user",
-    "expiration": "7d",
-    "createdAt": "2025-10-05T14:42:00.264Z"
   }
 ]
